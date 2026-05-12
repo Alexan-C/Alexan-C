@@ -56,7 +56,13 @@
 <br/>
 
 ### 📊Estatísticas 
-<div align="center">
-  <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Alexan-C&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-BR" />
-  <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Alexan-C&theme=tokyonight&custom_title=Tecnologia&layout=compact" />
-</div>
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Alexan-C&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-BR" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Alexan-C&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" />
+    </td>
+  </tr>
+</table>
