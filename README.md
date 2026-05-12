@@ -56,12 +56,7 @@
 <br/>
 
 ### 📊Estatísticas 
-<img
-  align= "left"
-  alt = "Git hub stats"
-  src = "https://github-readme-stats-sigma-five.vercel.app/api?username=Alexan-C&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-BR" />
-
-<img 
-  align= "left"
-  alt = "Git hub stats"
-  src = "https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Alexan-C&theme=tokyonight&layout=compact&custom_title=Tecnologias" />
+<div align="center">
+  <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Alexan-C&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-BR" />
+  <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Alexan-C&theme=tokyonight&custom_title=Tecnologia&layout=compact" />
+</div>
